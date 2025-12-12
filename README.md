@@ -2,6 +2,7 @@
 
 ### Currently working on 
 * C++ Sample Projects
+* Object Oriented Design Pattern
 * Microservices Sample Projects 
 
 
