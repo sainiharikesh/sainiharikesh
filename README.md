@@ -1,16 +1,20 @@
-## Hi there 👋
+## Welcome to my code repositories
 
-<!--
-**sainiharikesh/sainiharikesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on 
+* C++ Sample Projects
+* Microservices Sample Projects 
+* Image deblurring
 
-Here are some ideas to get you started:
+### Currently learning
+* Software Architecture
+* [Microservices](https://microservices.io/)
+* [Kafka](https://kafka.apache.org/)
+* [gRPC](https://grpc.io/)
+* [Kubernetes](https://kubernetes.io/)
+* [Prometheus](https://prometheus.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interested in
+* C++ / Python / Go
+* Computer Vision / OpenCV
+* Machine & Deep Learning
+* OpenCL / CUDA / OpenGL
